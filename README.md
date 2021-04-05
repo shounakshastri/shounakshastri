@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Statistics and CS fundamentals
 - 💞️ I’m looking to collaborate on learning and teaching Machine Learning, Deep Learning and Image Processing.
 - 📫 You can reach me on shounak.shastri@gmail.com
+- 🌍 You can read about some of my projects on shounakshastri.github.io
 
 <!---
 shounakshastri/shounakshastri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
